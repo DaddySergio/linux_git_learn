@@ -1,1 +1,8 @@
 write down the git commands explaining what they stand for inside aanswers file
+# git commit means saving a change
+# git add means to stage everything you have in the folder
+# git status means to check your git status
+# git log shows you all the history of all the frozen time stamp
+# git checkout is to go back to a previous time stamp
+# git push is to upload your local repository to a remote repository
+# git pull is to collect and integrate changes from remote repository into your current branch
