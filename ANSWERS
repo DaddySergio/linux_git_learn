@@ -1,0 +1,21 @@
+These are the answers 
+
+#ls  List all files and directories
+#cp  Copy file
+#mv  Move or rename a file
+#mkdir   Create a new directory
+#rmdir   Remove a directory
+#cd  To go back home
+#cd - Takes you to your user's home directory
+#cd .. Moves up one directory level
+#cd /  Takes you to the system's root directory
+#pwd   Shows you where you're at 
+#touch Create a file
+#rm    Remove file or directory
+#nano  To write into a text editor
+#ca    To see all the contents in a file
+#echo [text] > [file] Create a new file with text
+#echo [text] >> [file] Append text into an existing file
+#sudo To run a command with superior priviledges
+#su   To switch to another user account
+#chmod To change file permission
