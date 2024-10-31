@@ -1,0 +1,19 @@
+#git commands list and their meaning
+1. git init: a command used in initializing a new git repository
+2. git version: a command used in knowing your git's version
+3. git status: a command used to display your repository status
+4. git commit -m "(comment)": a command used to commit changes with meaningful message
+5. git add (file): a command used to stage changes to a file
+6. git add . : a command used to stage all changes in the current directory
+7. git log: a command used to display commit history
+8. git branch (branch name): a command used to create a new file
+9. git checkout (branch name): a command used to switch to a branch
+10. git merge (branch name): a command used to merge changes from another branch
+11. git branch -d (branch name): a command used to delete a branch
+12. git push: a command used to push changes to a remote repository
+13. git pull: a command used to pull changes from a remote repository
+14. git fetch: a command used to retrieve changes from a remote repository
+15. git reset (file): a command used to unstage changes to a file
+16. git remote add (name) (repo URL): a command used to add a remote repository
+
+
